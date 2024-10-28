@@ -1,7 +1,7 @@
 # creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
-### NAME: ESWANTH KUAMR K
+### NAME: ESWANTH KUMAR K
 ### REG NO: 212223040046
 # AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
